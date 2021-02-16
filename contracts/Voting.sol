@@ -39,7 +39,6 @@ contract Voting {
     // is equivalent to casting a vote
     function voteForCandidate(bytes32 candidate) public {
         require(validCandidate(candidate));
-        voters[msg.sender] = true;
         votesReceived[candidate] += 1;
     }
 

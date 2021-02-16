@@ -14,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Voting.sol" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Voting.sol" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contracts/Voting.sol">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
@@ -32,7 +32,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hardhat.config.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="hardhat.config.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hardhat.config.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
@@ -189,12 +189,12 @@
       <updated>1613178808783</updated>
       <workItem from="1613178811916" duration="13575000" />
       <workItem from="1613435424768" duration="1404000" />
-      <workItem from="1613438069108" duration="1107000" />
+      <workItem from="1613438069108" duration="1735000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16086000" />
+    <option name="totallyTimeSpent" value="16714000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="446" y="65" width="1400" height="843" extended-state="0" />
@@ -340,13 +340,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hardhat.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="54" selection-start-line="3" selection-start-column="54" selection-end-line="3" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/Voting.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="464">
@@ -358,6 +351,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hardhat.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="54" selection-start-line="3" selection-start-column="54" selection-end-line="3" selection-end-column="54" />
         </state>
       </provider>
     </entry>
